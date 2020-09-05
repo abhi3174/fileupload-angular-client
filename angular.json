@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-client-file-upload"
+    }
+  },
+  "defaultProject": "angular-client-file-upload",
+  "cli": {
+    "analytics": false
+  }
 }
